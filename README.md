@@ -1,143 +1,162 @@
-# Internship Project - CGPI Software Private Limited
+# Supply Chain Analytics Internship Project
 
-## Overview
+> **Internship Organization:** CGPI Software Private Limited
 
-This repository contains the work completed during my internship at **CGPI Software Private Limited**. The internship focused on data analysis, dashboard development, and Python-based data processing.
+## 📌 Overview :
 
-Due to confidentiality agreements and organizational policies, the original datasets used during the internship are **not included** in this repository. However, the repository contains project code, dashboard screenshots, and supporting files that demonstrate the methodologies and outcomes of my work.
-
----
-
-## Internship Details
-
-* **Organization:** CGPI Software Private Limited
-* **Role:** Data Analytics Intern
-* **Duration:** *(Add your internship duration)*
-* **Domain:** Data Analytics / Business Intelligence
+This repository showcases the work completed during my internship at **CGPI Software Private Limited**, where I worked on analyzing **Supply Chain Data** to derive actionable business insights.
+The project focuses on data analysis, interactive dashboard creation, and Python-based data processing to support supply chain performance monitoring and decision-making.
 
 ---
 
-## Project Objectives
+## 🎯 Project Objectives :
 
-* Analyze organizational data to identify business trends.
-* Develop interactive dashboards for data visualization.
-* Automate data cleaning and preprocessing using Python.
-* Generate meaningful insights to support business decision-making.
+* Analyze supply chain data to identify operational trends and business insights.
+* Develop interactive dashboards for monitoring key performance indicators (KPIs).
+* Perform data cleaning and preprocessing using Python.
+* Visualize important supply chain metrics for better decision-making.
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure :
 
-```
-├── dashboards/
-│   ├── dashboard_1.png
-│   ├── dashboard_2.png
+```text
+main
+│
+├── Dashboards/
+│   ├── Project_1.pbix
+│   ├── Project_2.pbix
 │   └── ...
 │
-├── python-project/
-│   ├── main.py
-│   ├── requirements.txt
-│   └── ...
-│
-├── assets/
-│   └── screenshots/
-│
+├── Images/
+│   ├── P1.png
+│   ├── P2.1.png
+│   └── P2.2.png
+│   └── P2.3.png
+│ 
+├── Python_Project/
+│   ├── Chart_Images/
+│   │   ├── q1_revenue_by_product.png
+│   │   ├── q2_customer_demographics.png
+│   │   ├── q3_price_vs_sold.png
+│   │   ├── q4_mfg_costs_dist.png
+│   │   ├── q5_defects_by_transport.png
+│   │   ├── q6_shipping_costs_violin.png
+│   │   ├── q7_correlation_heatmap.png
+│   │   ├── q8_inspection_results.png
+│   │   ├── q9_bubble_chart.png
+│   │   └── q10_avg_lead_time_supplier.png
+│   │
+│   ├── Dataset/
+│   │   └── supply_chain_data.csv
+│   │
+│   └── Question_And_Code/
+│       └──question_and_codes.py
+│  
 └── README.md
 ```
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Highlights :
 
-The repository includes screenshots of dashboards developed during the internship.
+The dashboards included in this repository provide insights into various supply chain metrics, including:
 
-The dashboards demonstrate:
+* Inventory Performance
+* Order Analysis
+* Sales Trends
+* Supplier Performance
+* Product Performance
+* Delivery Status
+* Revenue Analysis
+* Key Performance Indicators (KPIs)
 
-* KPI Monitoring
-* Sales & Performance Analysis
-* Trend Analysis
-* Interactive Visualizations
-* Business Reporting
-
-> *Actual dashboard data has been removed to protect organizational confidentiality.*
-
----
-
-## Python Project
-
-The Python project includes scripts for:
-
-* Data preprocessing
-* Data cleaning
-* Data transformation
-* Basic exploratory data analysis
-* Report generation (if applicable)
+Dashboard screenshots are available in the **Dashboards** folder.
 
 ---
 
-## Technologies Used
+## 🐍 Python Project :
+
+The Python project demonstrates basic data analysis and preprocessing techniques, including:
+
+* Data Loading
+* Data Cleaning
+* Handling Missing Values
+* Data Transformation
+* Exploratory Data Analysis (EDA)
+* Preparing data for visualization
+
+---
+
+## 🛠️ Technologies Used :
 
 * Python
 * Pandas
 * NumPy
 * Matplotlib
-* Power BI / Tableau *(whichever you used)*
 * Microsoft Excel
-* Jupyter Notebook *(if applicable)*
+* Power BI 
 
 ---
 
-## Dataset
+## 📈 Key Skills Demonstrated :
 
-The datasets used for this internship belong to **CGPI Software Private Limited** and are confidential.
-
-For this reason:
-
-* Dataset files are **not included**.
-* Database credentials are removed.
-* Sensitive business information has been excluded.
-
----
-
-## Skills Demonstrated
-
+* Data Analysis
 * Data Cleaning
-* Data Visualization
+* Exploratory Data Analysis
 * Dashboard Development
 * Business Intelligence
+* Data Visualization
+* Supply Chain Analytics
 * Python Programming
-* Data Analysis
-* Report Preparation
-* Problem Solving
 
 ---
 
-## Learning Outcomes
+## 📁 Dataset :
 
-During this internship, I gained practical experience in:
-
-* Working with real-world business data.
-* Building dashboards for stakeholders.
-* Automating repetitive analytical tasks.
-* Applying Python for data processing.
-* Understanding industry workflows and reporting standards.
+**Dataset Name:** Supply Chain Data
+To maintain confidentiality:
+* Sensitive business information has been removed.
+* Only dashboards and supporting Python code are included.
 
 ---
 
-## Confidentiality Notice
+## 📷 Dashboard Preview :
 
-This repository is intended solely to showcase the technical aspects of the internship. All proprietary datasets, business information, and confidential resources belonging to CGPI Software Private Limited have been intentionally omitted in accordance with confidentiality and ethical practices.
+
+<img width="1502" height="833" alt="P1" src="https://github.com/user-attachments/assets/b10830d0-1129-40c7-afad-2c0496260587" />
+<img width="1475" height="833" alt="P2 1" src="https://github.com/user-attachments/assets/ec021402-d780-4fc3-be17-5915fbe46f2c" />
+<img width="1469" height="836" alt="P2 2" src="https://github.com/user-attachments/assets/28ad0f75-52f6-4701-a3a8-baedcf5a3b1a" />
+<img width="1472" height="835" alt="P2 3" src="https://github.com/user-attachments/assets/8962a975-4a32-46e5-ab22-4c7444f07b58" />
+
+
+
 
 ---
 
-## Acknowledgements
+## 🚀 Learning Outcomes :
 
-I sincerely thank **CGPI Software Private Limited** for providing me with the opportunity to work on real-world data analytics projects and enhance my technical and professional skills.
+During this internship, I gained hands-on experience in:
+
+* Working with real-world supply chain datasets
+* Building interactive business dashboards
+* Cleaning and transforming data using Python
+* Identifying business trends through data visualization
+* Applying analytical techniques to solve business problems
 
 ---
 
-## License
+## 🔒 Confidentiality Notice :
 
-This repository is shared for educational and portfolio purposes only.
+This repository is intended for educational and portfolio purposes only.
 
-The project code may be viewed for learning purposes, but the original organizational data remains the property of CGPI Software Private Limited.
+All datasets, business information, and confidential organizational resources used during the internship remain the property of **CGPI Software Private Limited** and have not been included in this repository.
+
+---
+
+## 🙏 Acknowledgement :
+
+I would like to express my sincere gratitude to **CGPI Software Private Limited** for providing me with the opportunity to work on real-world supply chain analytics projects and enhance my technical and analytical skills.
+
+---
+
